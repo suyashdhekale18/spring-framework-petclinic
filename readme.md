@@ -233,6 +233,8 @@ For pull requests, editor preferences are available in the [editor config](.edit
 
 In WeekendBatch Jenkins Project Completed!!!!!
 
+compelet jenkins
+
 
 *****************************************************************Suchith K****************************************************************
 
@@ -241,4 +243,3 @@ Project Completed for m1 batch in Pune (Offline),
 Project Completed for m2 batch in Pune (Offline),
 Project Completed for e2 batch in Pune (Offline),!!
 Github webhook completed in Pune !
-Completing Jenkins in E1 batch
